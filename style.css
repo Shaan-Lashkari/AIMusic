@@ -1,0 +1,22 @@
+﻿.header{
+    width:100%;
+    top:0;
+    font-size:23px;
+    margin:0px;
+}
+.note{
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+}
+body{
+    text-align:center;
+}
+.songbtn{
+    font-size:20px;
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:18px 18px 18px grey;
+}
